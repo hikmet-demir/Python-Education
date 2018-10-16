@@ -12,6 +12,7 @@ It will consist:
 
     - useful things
 
+For setting up jupyter-notebook: https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 
 Lecturer-Author: Hikmet Demir
 
